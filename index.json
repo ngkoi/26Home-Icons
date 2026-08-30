@@ -4,75 +4,24 @@
   "packs": [
     {
       "id": "SolidGlass",
-      "name": "Solid Glass (Full Collection)",
+      "name": "Solid Glass (Unified Collection)",
       "author": "ngkhoi",
       "version": "1.0.0",
       "size": "26.1 MB",
       "iconCount": 800,
-      "description": "Complete premade icon collection including Light, Dark, Clear Light, Clear Dark, and Dark NS themes.",
+      "description": "Complete official premade icon collection including Light, Dark, ClearLight, ClearDark, LightNS, DarkNS, ClearLightNS, and ClearDarkNS themes.",
       "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solidglass.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/SolidGlass.tar.gz",
-      "themes": ["Light", "Dark", "ClearLight", "ClearDark", "DarkNS"]
-    },
-    {
-      "id": "DarkNS",
-      "name": "Dark NS Glass",
-      "author": "ngkhoi",
-      "version": "1.0.0",
-      "size": "5.0 MB",
-      "iconCount": 148,
-      "description": "Dark non-specular glass icons designed with procedural runtime specular rims.",
-      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/darkns.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/DarkNS.tar.gz",
-      "themes": ["DarkNS"]
-    },
-    {
-      "id": "ClearDark",
-      "name": "Clear Dark Glass",
-      "author": "ngkhoi",
-      "version": "1.0.0",
-      "size": "6.3 MB",
-      "iconCount": 232,
-      "description": "Ultra translucent clear glass icons with dark theme iconography.",
-      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/cleardark.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/ClearDark.tar.gz",
-      "themes": ["ClearDark"]
-    },
-    {
-      "id": "ClearLight",
-      "name": "Clear Light Glass",
-      "author": "ngkhoi",
-      "version": "1.0.0",
-      "size": "6.2 MB",
-      "iconCount": 227,
-      "description": "Ultra translucent clear glass icons with light theme iconography.",
-      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/clearlight.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/ClearLight.tar.gz",
-      "themes": ["ClearLight"]
-    },
-    {
-      "id": "Light",
-      "name": "Solid Light Glass",
-      "author": "ngkhoi",
-      "version": "1.0.0",
-      "size": "5.8 MB",
-      "iconCount": 151,
-      "description": "Solid frosted glass icons with crisp light theme glyphs.",
-      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/light.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/Light.tar.gz",
-      "themes": ["Light"]
-    },
-    {
-      "id": "Dark",
-      "name": "Solid Dark Glass",
-      "author": "ngkhoi",
-      "version": "1.0.0",
-      "size": "3.9 MB",
-      "iconCount": 107,
-      "description": "Solid frosted glass icons with dark theme glyphs.",
-      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/dark.png",
-      "downloadUrl": "https://github.com/ngkoi/26Home-Icons/releases/download/v1.0.0/Dark.tar.gz",
-      "themes": ["Dark"]
+      "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass.tar.gz",
+      "themes": [
+        "Light",
+        "Dark",
+        "ClearLight",
+        "ClearDark",
+        "LightNS",
+        "DarkNS",
+        "ClearLightNS",
+        "ClearDarkNS"
+      ]
     }
   ]
 }
