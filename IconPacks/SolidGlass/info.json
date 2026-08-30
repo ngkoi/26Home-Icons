@@ -1,0 +1,21 @@
+{
+  "id": "SolidGlass",
+  "name": "Solid Glass",
+  "author": "ngkhoi",
+  "version": "1.0.0",
+  "size": "26.1 MB",
+  "iconCount": 800,
+  "description": "Complete official premade icon collection including Light, Dark, ClearLight, ClearDark, LightNS, DarkNS, ClearLightNS, and ClearDarkNS themes.",
+  "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solidglass.png",
+  "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass/SolidGlass.tar.gz",
+  "themes": [
+    "Light",
+    "Dark",
+    "ClearLight",
+    "ClearDark",
+    "LightNS",
+    "DarkNS",
+    "ClearLightNS",
+    "ClearDarkNS"
+  ]
+}
