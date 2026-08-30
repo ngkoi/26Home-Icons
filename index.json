@@ -23,6 +23,25 @@
         "ClearLightNS",
         "ClearDarkNS"
       ]
+    },
+    {
+      "id": "SolidGlass27",
+      "name": "Solid Glass 27",
+      "author": "MacVerse",
+      "version": "1.0.0",
+      "size": "28.1 MB",
+      "iconCount": 864,
+      "description": "Solid Glass 27 icon collection by MacVerse, featuring Light, Dark, ClearLight, ClearDark, and DarkNS themes.",
+      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solidglass27.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass27/SolidGlass27.tar.gz",
+      "infoUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass27/info.json",
+      "themes": [
+        "Light",
+        "Dark",
+        "ClearLight",
+        "ClearDark",
+        "DarkNS"
+      ]
     }
   ]
 }
