@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "size": "26.1 MB",
       "iconCount": 800,
-      "description": "Complete official premade icon collection including Light, Dark, ClearLight, ClearDark, LightNS, DarkNS, ClearLightNS, and ClearDarkNS themes.",
+      "description": "26Home original icons.",
       "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solidglass.png",
       "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass/SolidGlass.tar.gz",
       "infoUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass/info.json",
@@ -31,7 +31,7 @@
       "version": "1.0.0",
       "size": "28.1 MB",
       "iconCount": 864,
-      "description": "Solid Glass 27 icon collection by MacVerse, featuring Light, Dark, ClearLight, ClearDark, and DarkNS themes.",
+      "description": "Solid Glass 27 icons collection.",
       "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solidglass27.png",
       "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass27/SolidGlass27.tar.gz",
       "infoUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/SolidGlass27/info.json",
@@ -41,6 +41,20 @@
         "ClearLight",
         "ClearDark",
         "DarkNS"
+      ]
+    },
+    {
+      "id": "Solstice",
+      "name": "Solstice",
+      "author": "pawxed",
+      "version": "0.0.1",
+      "size": "56.2 MB",
+      "iconCount": 3606,
+      "description": "Solstice iOS 18 Dark icons.",
+      "previewIcon": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/previews/solstice.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ngkoi/26Home-Icons/main/IconPacks/Solstice/Solstice.tar.gz",
+      "themes": [
+        "Dark"
       ]
     }
   ]
