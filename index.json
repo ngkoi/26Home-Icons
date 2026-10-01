@@ -56,6 +56,22 @@
       "themes": [
         "Dark"
       ]
+    },
+    {
+      "id": "ninetine",
+      "name": "19",
+      "author": "maiko",
+      "version": "1.0",
+      "size": "928 KB",
+      "iconCount": 43,
+      "description": "iOS 26 Beta 1 Icons",
+      "previewIcon": "ngkoi fix this",
+      "downloadUrl": "ngkoi fix this",
+      "themes": [
+          "Light",
+          "Dark",
+          "ClearLight",
+      ]
     }
   ]
 }
